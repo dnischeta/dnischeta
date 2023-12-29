@@ -1,1 +1,1 @@
-<code>Frontend developer at [@2gis](https://github.com/2gis) </code>
+Frontend developer at [@2gis](https://github.com/2gis)
